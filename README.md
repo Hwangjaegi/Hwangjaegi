@@ -1,9 +1,8 @@
-## Hi there 👋
+## 반갑습니다! 저는 풀스택 개발자 목표로 학습하고 있는 황재기입니다👋
+## Nice to meet you! My name is Jaegi Hwang, and I am learning to become a full-stack developer.👋
 
+<h2>[Technology stack being studied]</h2>
 
-**Hwangjaegi/Hwangjaegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
