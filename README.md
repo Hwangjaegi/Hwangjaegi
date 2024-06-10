@@ -1,7 +1,7 @@
-## 반갑습니다! 저는 풀스택 개발자 목표로 학습하고 있는 황재기입니다👋
-## Nice to meet you! My name is Jaegi Hwang, and I am learning to become a full-stack developer.👋
+### About Me
+### Nice to meet you! My name is Jaegi Hwang, and I am learning to become a full-stack developer.👋
 
-<h2 color="red">[Technology stack being studied]</h2>
+<h2>[학습한 내용]</h2>
 
 ![SPRING](https://img.shields.io/badge/-SPRING-F0532?style=for-the-badge&logo=spring&logoColor=ffffff)
 ![SPRINGBOOT](https://img.shields.io/badge/-SPRINGBOOT-F0532?style=for-the-badge&logo=SPRINGBOOT&logoColor=ffffff)
