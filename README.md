@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Hwangjaegi/Hwangjaegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![HTML5](https://img.shields.io/badge/-css3-F0532?style=for-the-badge&logo=html5&logoColor=ffffff)
