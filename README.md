@@ -5,6 +5,7 @@
 
 ![SPRING](https://img.shields.io/badge/-SPRING-F0532?style=for-the-badge&logo=spring&logoColor=ffffff)
 ![SPRINGBOOT](https://img.shields.io/badge/-SPRINGBOOT-F0532?style=for-the-badge&logo=SPRINGBOOT&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/-Node.js-gray?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-html5-orange?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-css3-orange?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![javascript](https://img.shields.io/badge/-javascript-orange?style=for-the-badge&logo=javascript&logoColor=ffffff)
